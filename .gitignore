@@ -1,0 +1,18 @@
+# 本机部署信息、配置覆盖和运行数据不进入仓库。
+config.local.json
+deployment-check.json
+*.jsonl
+status*.json
+traffic-alert-state*.json
+stop.flag
+*.log
+*.tmp
+*.bak
+*.lnk
+logs/
+data/
+backups/
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini

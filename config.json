@@ -1,0 +1,11 @@
+{
+  "pollSeconds": 2,
+  "fiveMinuteMB": 200,
+  "hourMB": 500,
+  "dayMB": 2000,
+  "alertCooldownMinutes": 15,
+  "retentionDays": 14,
+  "pipeName": "verge-mihomo",
+  "clashConfig": "",
+  "codexLogRoot": ""
+}

@@ -1,0 +1,8 @@
+# Windows PowerShell 5.1 的中文脚本须保留 UTF-8 BOM；换行统一为 CRLF。
+* text=auto
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.vbs text eol=crlf
+*.cs text eol=crlf
+*.json text eol=lf
+*.md text eol=lf
